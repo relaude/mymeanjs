@@ -1,0 +1,2 @@
+# mymeanjs
+Exploring MEAN.js 
