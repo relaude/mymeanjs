@@ -9,6 +9,16 @@
   "author": "Ramil Laude",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "glob": "^5.0.14",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "lodash": "^3.10.1",
+    "phantomjs": "^1.9.18"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^0.2.0"
   }
 }
